@@ -1,0 +1,17 @@
+License
+=======
+
+Game programming is copyright Thomas Harte, 2006.
+Map is copyright Sandy White, 1983 and is taken from his ZX Spectrum game, Ant Attack.
+
+All sounds taken from The Freesound Project, http://freesound.iua.upf.edu/. In particular:
+
+http://freesound.iua.upf.edu/samplesViewSingle.php?id=26751
+http://freesound.iua.upf.edu/samplesViewSingle.php?id=22434
+http://freesound.iua.upf.edu/samplesViewSingle.php?id=1526
+http://freesound.iua.upf.edu/samplesViewSingle.php?id=77
+http://freesound.iua.upf.edu/samplesViewSingle.php?id=86
+http://freesound.iua.upf.edu/samplesViewSingle.php?id=19911
+http://freesound.iua.upf.edu/samplesViewSingle.php?id=24550
+
+Sounds are distributed subject to the licenses identified at The Freesound Project.

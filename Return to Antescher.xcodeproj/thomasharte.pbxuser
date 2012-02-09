@@ -1,0 +1,307 @@
+// !$*UTF8*$!
+{
+	002F3A2C09D0888800EBEB88 /* SDLMain.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {818, 5278}}";
+			sepNavSelRange = "{1328, 4}";
+			sepNavVisRect = "{{0, 250}, {802, 805}}";
+			sepNavWindowFrame = "{{19, -5}, {841, 878}}";
+		};
+	};
+	002F3A3E09D088BA00EBEB88 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 7238}}";
+			sepNavSelRange = "{6679, 0}";
+			sepNavVisRect = "{{0, 3623}, {1041, 805}}";
+			sepNavWindowFrame = "{{96, 0}, {1080, 878}}";
+		};
+	};
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {655, 805}}";
+			sepNavSelRange = "{291, 0}";
+			sepNavVisRect = "{{0, 0}, {655, 805}}";
+			sepNavWindowFrame = "{{19, -5}, {694, 878}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 4B18E6180AE27CD9005D5B0D /* Return to Antescher */;
+		activeTarget = 8D1107260486CEB800E47090 /* Return to Antescher */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Return to Antescher */,
+		);
+		breakpoints = (
+			4BE9BE840B371DF90051EFE8 /* font.h:16 */,
+		);
+		breakpointsGroup = 4BEC165E0AE2979D00DC647C /* XCBreakpointsBucket */;
+		codeSenseManager = 4B18E6210AE27CDE005D5B0D /* Code sense */;
+		executables = (
+			4B18E6180AE27CD9005D5B0D /* Return to Antescher */,
+		);
+		expressions = (
+			Mask,
+			x,
+			y,
+			"CubeGrid[x - LowX][y - LowY][z]",
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 197743859;
+			PBXWorkspaceStateSaveDate = 197743859;
+		};
+		sourceControlManager = 4B18E6200AE27CDE005D5B0D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4B0603090B3C230400D3BA79 /* Platform.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {802, 801}}";
+			sepNavSelRange = "{56, 11}";
+			sepNavVisRect = "{{0, 0}, {802, 801}}";
+			sepNavWindowFrame = "{{19, -1}, {841, 874}}";
+		};
+	};
+	4B06030A0B3C230400D3BA79 /* Platform.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {596, 322}}";
+			sepNavSelRange = "{382, 0}";
+			sepNavVisRect = "{{0, 0}, {596, 119}}";
+			sepNavWindowFrame = "{{284, 4}, {841, 874}}";
+		};
+	};
+	4B1295410B2F4E8A006FE1D1 /* font.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 224}}";
+			sepNavSelRange = "{94, 3}";
+			sepNavVisRect = "{{0, 0}, {740, 180}}";
+			sepNavWindowFrame = "{{176, -11}, {1006, 851}}";
+		};
+	};
+	4B1295420B2F4E8A006FE1D1 /* font.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2906, 7966}}";
+			sepNavSelRange = "{399, 0}";
+			sepNavVisRect = "{{493, 0}, {967, 778}}";
+			sepNavWindowFrame = "{{125, 24}, {1006, 851}}";
+		};
+	};
+	4B18E6180AE27CD9005D5B0D /* Return to Antescher */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 1;
+		name = "Return to Antescher";
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	4B18E6200AE27CDE005D5B0D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	4B18E6210AE27CDE005D5B0D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4BE050360B30A289005AB467 /* Antescher.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 805}}";
+			sepNavSelRange = "{45, 0}";
+			sepNavVisRect = "{{0, 0}, {1041, 805}}";
+			sepNavWindowFrame = "{{19, -5}, {1080, 878}}";
+		};
+	};
+	4BE050370B30A289005AB467 /* Antescher.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 3402}}";
+			sepNavSelRange = "{1794, 0}";
+			sepNavVisRect = "{{0, 571}, {1041, 805}}";
+			sepNavWindowFrame = "{{19, -5}, {1080, 878}}";
+		};
+	};
+	4BE0506B0B30A4BF005AB467 /* Gameplay.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {587, 805}}";
+			sepNavSelRange = "{222, 10}";
+			sepNavVisRect = "{{0, 0}, {587, 805}}";
+			sepNavWindowFrame = "{{322, 0}, {626, 878}}";
+		};
+	};
+	4BE0506C0B30A4BF005AB467 /* Gameplay.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 11438}}";
+			sepNavSelRange = "{17616, 3}";
+			sepNavVisRect = "{{0, 9059}, {740, 180}}";
+			sepNavWindowFrame = "{{153, 0}, {996, 878}}";
+		};
+	};
+	4BE050AF0B30A63A005AB467 /* Titlescreen.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 805}}";
+			sepNavSelRange = "{106, 0}";
+			sepNavVisRect = "{{0, 0}, {1041, 805}}";
+			sepNavWindowFrame = "{{19, -5}, {1080, 878}}";
+		};
+	};
+	4BE050B00B30A63A005AB467 /* Titlescreen.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 1974}}";
+			sepNavSelRange = "{47, 0}";
+			sepNavVisRect = "{{0, 0}, {1041, 801}}";
+			sepNavWindowFrame = "{{183, 4}, {1080, 874}}";
+		};
+	};
+	4BE143D30B39D19A007077CB /* Deathscreen.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {655, 805}}";
+			sepNavSelRange = "{74, 12}";
+			sepNavVisRect = "{{0, 0}, {655, 805}}";
+			sepNavWindowFrame = "{{19, -5}, {694, 878}}";
+		};
+	};
+	4BE143D40B39D19A007077CB /* Deathscreen.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1004, 588}}";
+			sepNavSelRange = "{677, 0}";
+			sepNavVisRect = "{{0, 323}, {740, 180}}";
+			sepNavWindowFrame = "{{19, -1}, {841, 874}}";
+		};
+	};
+	4BE2A4B80B344E6900664728 /* cubedrawing.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 805}}";
+			sepNavSelRange = "{342, 22}";
+			sepNavVisRect = "{{0, 0}, {768, 805}}";
+			sepNavWindowFrame = "{{19, -5}, {807, 878}}";
+		};
+	};
+	4BE2A4B90B344E6900664728 /* cubedrawing.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 1792}}";
+			sepNavSelRange = "{78, 0}";
+			sepNavVisRect = "{{0, 0}, {768, 805}}";
+			sepNavWindowFrame = "{{19, -5}, {807, 878}}";
+		};
+	};
+	4BE2A7AF0B348A4000664728 /* ConvexObject.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 805}}";
+			sepNavSelRange = "{199, 0}";
+			sepNavVisRect = "{{0, 0}, {768, 805}}";
+			sepNavWindowFrame = "{{355, 0}, {807, 878}}";
+		};
+	};
+	4BE2A7B00B348A4000664728 /* ConvexObject.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {932, 5166}}";
+			sepNavSelRange = "{9478, 0}";
+			sepNavVisRect = "{{0, 4185}, {768, 805}}";
+			sepNavWindowFrame = "{{110, 0}, {807, 878}}";
+		};
+	};
+	4BE3C0EE0B386A5A004F87B6 /* Monster.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 805}}";
+			sepNavSelRange = "{586, 0}";
+			sepNavVisRect = "{{0, 0}, {883, 805}}";
+			sepNavWindowFrame = "{{65, 0}, {922, 878}}";
+		};
+	};
+	4BE3C0EF0B386A5A004F87B6 /* Monster.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 3038}}";
+			sepNavSelRange = "{2072, 0}";
+			sepNavVisRect = "{{0, 807}, {883, 805}}";
+			sepNavWindowFrame = "{{257, 0}, {922, 878}}";
+		};
+	};
+	4BE9BE840B371DF90051EFE8 /* font.h:16 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4B1295410B2F4E8A006FE1D1 /* font.h */;
+		hitCount = 1;
+		lineNumber = 16;
+		location = "Event Based Game Framework";
+		modificationTime = 188502906.241546;
+		state = 1;
+	};
+	4BEAAF7C0B357A1F0053CCC6 /* Instructions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 805}}";
+			sepNavSelRange = "{0, 171}";
+			sepNavVisRect = "{{0, 0}, {768, 805}}";
+			sepNavWindowFrame = "{{19, -5}, {807, 878}}";
+		};
+	};
+	4BEAAF7D0B357A1F0053CCC6 /* Instructions.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {794, 2436}}";
+			sepNavSelRange = "{3910, 0}";
+			sepNavVisRect = "{{19, 1347}, {768, 805}}";
+			sepNavWindowFrame = "{{312, 0}, {807, 878}}";
+		};
+	};
+	4BEC16190AE2953800DC647C /* ebgf.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {836, 966}}";
+			sepNavSelRange = "{566, 3}";
+			sepNavVisRect = "{{0, 203}, {823, 473}}";
+			sepNavWindowFrame = "{{495, 102}, {862, 546}}";
+		};
+	};
+	4BEC16210AE2965200DC647C /* gamemain.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 1078}}";
+			sepNavSelRange = "{471, 50}";
+			sepNavVisRect = "{{0, 34}, {967, 778}}";
+			sepNavWindowFrame = "{{431, 27}, {1006, 851}}";
+		};
+	};
+	4BEC165E0AE2979D00DC647C /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+			4BE9BE840B371DF90051EFE8 /* font.h:16 */,
+		);
+	};
+	8D1107260486CEB800E47090 /* Return to Antescher */ = {
+		activeExec = 0;
+		executables = (
+			4B18E6180AE27CD9005D5B0D /* Return to Antescher */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {686, 805}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {655, 805}}";
+			sepNavWindowFrame = "{{19, -5}, {694, 878}}";
+		};
+	};
+}
